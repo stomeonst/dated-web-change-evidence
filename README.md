@@ -4,7 +4,7 @@ A small Python standard library sample that records visible HTML text, a UTC che
 
 The project is a public technical sample. It is not a claim of client work or measured conversion impact.
 
-For a scoped website evidence and conversion QA review, see Chris's [public service page](https://chris-saas-services.stomeonst123.chatgpt.site) or email [stomeonst123@gmail.com](mailto:stomeonst123@gmail.com). Scope, availability, and a mutually usable payment method are confirmed before any paid work starts.
+For a scoped website evidence and conversion QA review, see Gang Qu's [public service page](https://chris-saas-services.stomeonst123.chatgpt.site) or email [stomeonst123@gmail.com](mailto:stomeonst123@gmail.com). Scope, availability, and a mutually usable payment method are confirmed before any paid work starts.
 
 ## Why this exists
 
